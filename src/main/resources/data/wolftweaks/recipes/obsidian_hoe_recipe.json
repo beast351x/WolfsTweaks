@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "wolftweaks:blueprint_obsidian_hoe"
+        },
+        {
+            "item": "wolftweaks:obsidian_ingot"
+        },
+        {
+            "item": "wolftweaks:obsidian_ingot"
+        },
+        {
+            "item": "minecraft:stick"
+        },
+        {
+            "item": "minecraft:stick"
+        }
+    ],
+    "result": {
+        "item": "wolftweaks:obsidian_hoe",
+        "count": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "wolftweaks:blueprint_obsidian_axe"
+        },
+        {
+            "item": "wolftweaks:obsidian_ingot"
+        },
+        {
+            "item": "wolftweaks:obsidian_ingot"
+        },
+        {
+            "item": "wolftweaks:obsidian_ingot"
+        },
+        {
+            "item": "minecraft:stick"
+        },
+        {
+            "item": "minecraft:stick"
+        }
+    ],
+    "result": {
+        "item": "wolftweaks:obsidian_axe",
+        "count": 1
+    }
+}

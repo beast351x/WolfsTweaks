@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gg",
+        "gg"
+    ],
+    "key": {
+        "g": {
+            "item": "wolftweaks:obsidian_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:obsidian",
+        "count": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "wolftweaks:blueprint_obsidian_shovel"
+        },
+        {
+            "item": "wolftweaks:obsidian_ingot"
+        },
+        {
+            "item": "minecraft:stick"
+        },
+        {
+            "item": "minecraft:stick"
+        }
+    ],
+    "result": {
+        "item": "wolftweaks:obsidian_shovel",
+        "count": 1
+    }
+}

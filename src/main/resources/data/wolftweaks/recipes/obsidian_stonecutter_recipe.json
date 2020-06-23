@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "wolftweaks:obsidianblockstag"
+    },
+    "result": "minecraft:obsidian",
+    "count": 1
+}

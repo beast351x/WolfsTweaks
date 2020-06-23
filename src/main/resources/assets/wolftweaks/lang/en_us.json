@@ -1,0 +1,26 @@
+{
+	"item.wolftweaks.obsidian_ingot": "Obsidian Ingot",
+	
+	"item.wolftweaks.obsidian_sword": "Obsidian Sword",
+	"item.wolftweaks.obsidian_pickaxe": "Obsidian Pickaxe",
+	"item.wolftweaks.obsidian_shovel": "Obsidian Shovel",
+	"item.wolftweaks.obsidian_axe": "Obsidian Axe",
+	"item.wolftweaks.obsidian_hoe": "Obsidian Hoe",
+	
+	"item.wolftweaks.blueprint_obsidian_sword": "Obsidian Sword Blueprint",
+	"item.wolftweaks.blueprint_obsidian_pickaxe": "Obsidian Pickaxe Blueprint",
+	"item.wolftweaks.blueprint_obsidian_shovel": "Obsidian Shovel Blueprint",
+	"item.wolftweaks.blueprint_obsidian_axe": "Obsidian Axe Blueprint",
+	"item.wolftweaks.blueprint_obsidian_hoe": "Obsidian Hoe Blueprint",
+	
+	"item.wolftweaks.orange": "Orange",
+	
+	"block.wolftweaks.obsidian_brick": "Obsidian Bricks",
+	"block.wolftweaks.cracked_obsidian_brick": "Cracked Obsidian Bricks",
+	"block.wolftweaks.smooth_obsidian": "Smooth Obsidian",
+	"block.wolftweaks.chiseled_obsidian_brick": "Chiseled Obsidian",
+	
+	"itemGroup.wolfsblockitemgroup": "Wolf Blocks Tab",
+	"itemGroup.wolfsmiscitemgroup": "Wolf Misc Tab",
+	"itemGroup.wolfstoolsitemgroup": "Wolf Tools Tab"
+}
